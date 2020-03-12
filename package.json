@@ -2,7 +2,7 @@
   "name": "spining-react-logo",
   "version": "0.0.0",
   "description": "No description",
-  "author": null,
+  "author": "Tomas Kelečius",
   "private": true,
   "main": "node_modules/expo/AppEntry.js",
   "devDependencies": {
